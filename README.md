@@ -1,4 +1,4 @@
 # myfirstrepo
 This Is My First Git Repository.
 <br>
-Author - Faiz Turkey
+Author - Faiz Turkey(Mohd Faiz)
